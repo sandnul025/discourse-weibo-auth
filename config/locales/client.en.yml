@@ -1,0 +1,6 @@
+en:
+  js:
+    login:
+      weibo:
+        message: 'with weibo'
+        title: 'Authenticating with weibo'

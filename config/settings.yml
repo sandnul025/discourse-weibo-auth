@@ -1,0 +1,10 @@
+plugins:
+  enable_weibo_login:
+    default: false
+  weibo_client_id:
+    client: false
+    default: ''
+  weibo_secret:
+    client: false
+    default: ''
+    secret: true

@@ -1,0 +1,9 @@
+en:
+  site_settings:
+    weibo_client_id: 'weibo OAuth2 client id'
+    weibo_secret: 'weibo OAuth2 client secret'
+    enable_weibo_login: 'Allow users to log in with weibo'
+
+  discourse_weibo_auth:
+    errors:
+      cannot_remove: 'Credentials cannot be cleared while weibo login is enabled'

@@ -1,0 +1,6 @@
+en:
+  js:
+    login:
+      weibo:
+        message: '微信授权登录'
+        title: '微信授权登录'

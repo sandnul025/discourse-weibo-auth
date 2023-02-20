@@ -1,0 +1,9 @@
+zh_CN:
+  site_settings:
+    weibo_client_id: '微信客户端帐号'
+    weibo_secret: '微信客户端密码'
+    enable_weibo_login: '是否开启'
+
+  discourse_weibo_auth:
+    errors:
+      cannot_remove: '启用微信登录时无法清除凭据'
